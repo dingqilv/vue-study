@@ -1,2 +1,5 @@
 # vue-study
-web全栈课程-vue
+## 准备工作
+### vscode插件
++ vetur
++ vue vscode snippets
